@@ -1,0 +1,73 @@
+
+
+- Outline (35 Min)
+    - AI intro (< 5 min)
+    - Perspective on approaching AI for T&L (< 5 min)
+    - ai-Practise & other projects (5 min)
+    - Proj CLASSIFIES & beyond (10 min)
+    - Live QW + FCJ (10 min)
+        - Alternative: Live Google Form + FCJ
+
+
+
+- Elon Musk
+    - "goobdye homework!" Jan 2023 (Credit: https://www.bbc.co.uk/newsround/64210050.amp)
+    - Recent SpaceX + xAI merger 
+        by Laurence Darmiento, Los Angeles Times
+        February 10, 2026 (Accessed Feb 11, 2026)
+        https://www.latimes.com/business/story/2026-02-10/what-to-know-about-elon-musks-merger-of-spacex-with-his-ai-company)
+
+- Hadley Wickham
+    - [paraphrase of 2025 keynote @ USCOTS]
+    - initial experience was a sort of cognitive dissonance that these AI models 
+      were suddenly really good at things that computers had never been able to 
+      do (drawing, writing, conversing, modification of "tone"), but would then
+      give silly results for tasks that computers have always done well (arithmetic)
+      ...embarass itself? --tendency to anthropomorphize the technology
+
+- Anthropomophizing AI
+    - so-called "ELIZA Effect", has been studied since the 1960s; people readily attribute human traits to technology
+    - "intelligence", "learning", "it knows things", people use gendered pronounces when referring to it
+    - June 2022 NYT article--Google Engineer believes AI chatbot is sentient
+    - Nov 2022 ChatGPT is released to the public (and takes the world by storm)
+
+- for teaching & learning
+    - not first period of rapid advances in technology (mention GAISE guidelines)
+    - it's counterproductive to constantly retreat into the shadows of what AI can't do (yet?)
+    - allows us to shift priority to critical thinking (i.e., most human things)
+    - our focus should not be to "replace" but to "amplify" (tool vs crutch)
+        - same is true for students--don't "automate" your education away
+        - I don't expect AI to take over our jobs... ppl with AI-empowered workflow
+    - recent examples have generally been a good thing
+
+- Recently Consulted on DS Advisory Board for Pearson Education--a large textbook publisher, among other things
+    - (not our primary focus) showed an early version contextualized LLM to accompany class materials
+    - doesn't "give answers" but is intended rather to coach and tutor--I can get behind this
+    
+- Anthropic's AI constitution: 
+    - Constitutional AI--set of rules and guardrails for how LLM should respond in certain circumstances
+    - https://www.anthropic.com/constitution
+    - published January 22, 2026
+    - Time article: 
+        - https://time.com/7354738/claude-constitution-ai-alignment/
+        - if you find out your six year old is a genius, you have to be honest... if you try to BS they're going to see through it completely
+        
+- mention connection to aiPractise grant
+    - customized learning trajectories to support students with individualized 
+      attention and practice curated by the course instructor
+
+- another example--Proj CLASSIFIES; in-class check for understanding... at scale
+    - motivate free response
+    - formative assessment should benefit instructors & students in timely manner
+    - discuss evaluation approach 
+    - preliminary HIL AI results
+    - discuss current work with CSRAI
+    
+- extend to scalable, personalized feedback
+    - strategic partnership with UoA
+    - show QW
+    - (5 min) CJ demo? (S's happy to judge, even if reluctant to write)
+    - schematic for FAST with AI
+
+
+    
