@@ -1,10 +1,9 @@
 ---
-title: "Ashtekar Frontiers of Science"
-subtitle: "Unexpected Pairings Week 6: Education"
+title: "International Conference on Technology in Collegiate Mathematics"
 author: |
   | Matthew Beckman
   | Penn State University
-date: February 28, 2026
+date: March 7, 2026
 output: 
   html_document: 
     css: stylesheet.css
@@ -23,7 +22,7 @@ output:
 - [EMNLP Paper (PDF)](docs/EMNLP-Paper.pdf): Li, Z., Lloyd, S., Beckman, M. D., & Passonneau, R. J. (2023). Answer-state Recurrent Relational Network (AsRRN) for Constructed Response Assessment and Feedback Grouping.  *Findings of the Association for Computational Linguistics: EMNLP 2023*. https://doi.org/10.18653/v1/2023.findings-emnlp.254
 - [Pilot Study (PDF)](docs/ICOTS-Paper.pdf): Lloyd, S. E., Beckman, M., Pearl, D., Passonneau, R., Li, Z., & Wang, Z. (2022). Foundations for AI-Assisted Formative Assessment Feedback for Short-Answer Tasks in Large-Enrollment Classes. In *Proceedings of the eleventh international conference on teaching statistics*. Rosario, Argentina.
 - [ArXiv Preprint (link)](https://arxiv.org/pdf/2504.03877): Wei, Y., Pearl, D., Beckman, M., Passonneau, R. (2025). Concept-based Rubrics Improve LLM Formative Assessment and Data Synthesis. Preprint URL: <https://arxiv.org/pdf/2504.03877> 
-- [2026 Ashtekar Frontiers of Science Lecture Series (link): https://science.psu.edu/frontiers](https://science.psu.edu/frontiers)
+- [2026 International Conference on Technology in Collegiate Mathematics](https://www.pearson.com/en-us/higher-education/campaigns/ictcm.html?srsltid=AfmBOopAqk_sxcvq_YyJwbsBjqQM_AwR5UZshvEjg9VHt0azCRjtxFIS)
 
 ## Acknowledgments 
 
